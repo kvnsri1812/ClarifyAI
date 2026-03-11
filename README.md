@@ -249,7 +249,7 @@ Managed API front door with authorizers and CORS.
   }
 }
 
----
+```
 
 ### AWS Lambda
 
